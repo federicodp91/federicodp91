@@ -4,7 +4,7 @@
 
 ### 👤 Sobre mí
 
-Soy estudiante de **Ciencia de Datos e Inteligencia Artificial en ISTEA**, con experiencia en análisis de información para soporte a la gestión y toma de decisiones en entornos corporativos, incluyendo seguimiento de presupuestos CAPEX y reporting en **Power BI**.
+Estudiante de **Ciencia de Datos e Inteligencia Artificial en ISTEA**, con experiencia en análisis de información para soporte a la gestión y toma de decisiones en entornos corporativos, incluyendo seguimiento de presupuestos CAPEX y reporting en **Power BI**.
 
 ---
 
