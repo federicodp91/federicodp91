@@ -46,7 +46,6 @@ Proyecto personal desarrollado con HTML, CSS, JavaScript y Bootstrap.
 
 👉 https://federicodp91.github.io/laRed2/
 
-📍 *Plan de evolución*: análisis de datos de consumo, precios y tendencias del mercado.
 
 ---
 
