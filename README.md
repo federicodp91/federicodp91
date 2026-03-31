@@ -1,43 +1,90 @@
 <h1 align="center">Hola 👋, soy Federico De Palma</h1>
-<h3 align="center">Estudiante de Ciencia de Datos e IA en ISTEA</h3>
+<h3 align="center">Data Analyst / Data Scientist en formación 📊🤖</h3>
 
-- 🔭 Mi proyecto destacado (Desarrollo Web + JS): [La Red Del Vino](https://federicodp91.github.io/laRed2/)
+---
 
-- 🌱 Actualmente estoy aprendiendo **Python, SQL y Análisis de Datos**
+### 👤 Sobre mí
 
-- 📫 Cómo contactarme: **federicodepalma.n@gmail.com**
+Soy estudiante de **Ciencia de Datos e Inteligencia Artificial en ISTEA**, con experiencia en análisis de información para soporte a la gestión y toma de decisiones.
 
-- 📄 Mi experiencia: [https://www.linkedin.com/in/f-depalma/](https://www.linkedin.com/in/f-depalma/)
+Cuento con base en desarrollo web y actualmente oriento mi perfil profesional al **análisis de datos, visualización y reporting**, con foco en entornos corporativos.
 
-- ⚡ Mi objetivo: **Adquirir todos los conocimientos necesarios para dominar el análisis de datos y la inteligencia artificial.**
+🎯 Mi objetivo es incorporarme como **Data Analyst / Data Scientist Junior**, aportando valor a través del análisis y la interpretación de datos.
 
-<h3 align="left">Conecta conmigo:</h3>
+---
+
+### 🧩 Conocimientos y herramientas
+
+- 🐍 **Python** (Pandas, análisis exploratorio de datos)
+- 🗄️ **SQL** (consultas, joins, agregaciones)
+- 📊 **Power BI** (modelado, KPIs, dashboards)
+- 📈 Visualización de datos
+- 📐 Estadística aplicada
+- 🤖 Fundamentos de Machine Learning
+
+---
+
+### 💼 Experiencia práctica / Casos de uso
+
+📊 **Gestión de Presupuesto CAPEX**
+- Análisis y seguimiento de presupuesto de inversiones.
+- Control de desvíos vs. presupuesto aprobado.
+- Elaboración de reportes para soporte a la toma de decisiones.
+
+🚗 **Gestión de Flota Automotor**
+- Análisis de costos operativos y mantenimiento.
+- Reportes de consumo, uso y rendimiento.
+- Construcción de indicadores de gestión en **Power BI**.
+
+📌 *Los proyectos se encuentran actualmente en proceso de documentación y preparación para publicación.*
+
+---
+
+### 🚀 Proyecto destacado
+
+🔭 **La Red del Vino** – Desarrollo Web  
+Proyecto personal desarrollado con HTML, CSS, JavaScript y Bootstrap.
+
+👉 https://federicodp91.github.io/laRed2/
+
+📍 *Plan de evolución*: análisis de datos de consumo, precios y tendencias del mercado.
+
+---
+
+### 📂 Proyectos de Datos (en progreso)
+
+- 📊 Análisis exploratorio de datasets reales
+- 🗄️ Consultas SQL sobre bases de datos simuladas y reales
+- 📈 Dashboards en Power BI orientados a negocio
+- 🤖 Introducción a modelos de clasificación y regresión
+
+*(Repositorios en crecimiento)*
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
 <p align="left">
-<a href="https://linkedin.com/in/f-depalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f-depalma" height="30" width="40" /></a>
-<a href="https://instagram.com/federico.depalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federico.depalma" height="30" width="40" /></a>
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+  https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-</p>
+---
+
+### 📫 Contacto
+
+- 📧 **Email:** federicodepalma.n@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/f-depalma/
+
+---
+
+### 🌱 Buscando oportunidades
+
+✅ Data Analyst Jr  
+✅ Data Scientist Trainee  
+✅ Analista de Datos  
+
+Interés en entornos donde los datos se utilicen para mejorar procesos y toma de decisiones.
