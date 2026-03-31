@@ -1,26 +1,25 @@
 <h1 align="center">Hola 👋, soy Federico De Palma</h1>
-<h3 align="center">Data Analyst / Data Scientist en formación 📊🤖</h3>
 
 ---
 
 ### 👤 Sobre mí
 
-Soy estudiante de **Ciencia de Datos e Inteligencia Artificial en ISTEA**, con experiencia en análisis de información para soporte a la gestión y toma de decisiones.
-
-Cuento con base en desarrollo web y actualmente oriento mi perfil profesional al **análisis de datos, visualización y reporting**, con foco en entornos corporativos.
-
-🎯 Mi objetivo es incorporarme como **Data Analyst / Data Scientist Junior**, aportando valor a través del análisis y la interpretación de datos.
+Soy estudiante de **Ciencia de Datos e Inteligencia Artificial en ISTEA**, con experiencia en análisis de información para soporte a la gestión y toma de decisiones en entornos corporativos, incluyendo seguimiento de presupuestos CAPEX y reporting en **Power BI**.
 
 ---
 
-### 🧩 Conocimientos y herramientas
 
-- 🐍 **Python** (Pandas, análisis exploratorio de datos)
-- 🗄️ **SQL** (consultas, joins, agregaciones)
-- 📊 **Power BI** (modelado, KPIs, dashboards)
-- 📈 Visualización de datos
-- 📐 Estadística aplicada
+### 🧩 En qué me estoy formando
+
+Actualmente me encuentro fortaleciendo mi perfil en **análisis de datos y business intelligence**, combinando formación académica con experiencia práctica en entornos corporativos.
+
+- 🐍 **Python** aplicado a análisis exploratorio de datos (Pandas)
+- 🗄️ **SQL** para consulta y análisis de bases de datos
+- 📊 **Power BI**: modelado de datos, KPIs y dashboards para gestión
+- 📈 Visualización de datos orientada a negocio
+- 📐 Estadística aplicada al análisis de información
 - 🤖 Fundamentos de Machine Learning
+- ⚙️ Uso de datos para mejora y optimización de procesos
 
 ---
 
@@ -51,16 +50,7 @@ Proyecto personal desarrollado con HTML, CSS, JavaScript y Bootstrap.
 
 ---
 
-### 📂 Proyectos de Datos (en progreso)
 
-- 📊 Análisis exploratorio de datasets reales
-- 🗄️ Consultas SQL sobre bases de datos simuladas y reales
-- 📈 Dashboards en Power BI orientados a negocio
-- 🤖 Introducción a modelos de clasificación y regresión
-
-*(Repositorios en crecimiento)*
-
----
 
 ### 🛠️ Lenguajes y Herramientas
 
@@ -80,11 +70,5 @@ Proyecto personal desarrollado con HTML, CSS, JavaScript y Bootstrap.
 - 💼 **LinkedIn:** https://www.linkedin.com/in/f-depalma/
 
 ---
-
-### 🌱 Buscando oportunidades
-
-✅ Data Analyst Jr  
-✅ Data Scientist Trainee  
-✅ Analista de Datos  
 
 Interés en entornos donde los datos se utilicen para mejorar procesos y toma de decisiones.
