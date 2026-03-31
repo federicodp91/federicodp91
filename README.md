@@ -1,32 +1,13 @@
-<h1 align="center">Hola 👋, soy Federico De Palma</h1>
-<h3 align="center">Estudiante de Ciencia de Datos e IA en ISTEA</h3>
-
-- 🔭 Mi proyecto destacado (Desarrollo Web + JS): [La Red Del Vino](https://federicodp91.github.io/laRed2/)
-
-- 🌱 Actualmente estoy aprendiendo **Python, SQL y Análisis de Datos**
-
-- 📫 Cómo contactarme: **federicodepalma.n@gmail.com**
-
-- 📄 Mi experiencia: [https://www.linkedin.com/in/f-depalma/](https://www.linkedin.com/in/f-depalma/)
-
-- ⚡ Mi objetivo: **Adquirir todos los conocimientos necesarios para dominar el análisis de datos y la inteligencia artificial.**
-
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/f-depalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f-depalma" height="30" width="40" /></a>
-<a href="https://instagram.com/federico.depalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federico.depalma" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql-server" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.11.0/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
