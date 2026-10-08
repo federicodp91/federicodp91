@@ -2,23 +2,23 @@
 
 **Data | Automatización & Procesos**
 
-Soy Supervisor de Administración en Cencosud y estoy orientando mi carrera hacia Data Analysis y Business Intelligence. Trabajo con datos todos los días: consumo información desde Snowflake con SQL, armo reportes en Power BI y automatizo tareas repetitivas con Python y Excel.
+Soy Supervisor de Administración en Cencosud y estoy orientando mi carrera hacia Data Analysis y Business Intelligence. Consulto datos en Snowflake con SQL, armo reportes en Power BI y automatizo tareas repetitivas con Python y Excel.
 
-📍 Buenos Aires, Argentina
-🎓 Estudiando Ciencia de Datos e IA en ISTEA
+📍 Vivo en Buenos Aires, Argentina
+🎓 Estudio Ciencia de Datos e IA en ISTEA
 
 ## En qué trabajo
 
-- Reportes y modelos en **Power BI** (DAX, reportes en la nube)
-- Consultas **SQL** sobre Snowflake y procesos **ETL** para alimentar reportes
-- Automatización de procesos administrativos con **Python** y **Excel**
-- Herramientas internas con **Python + Streamlit**
+- Armo reportes y modelos en **Power BI** (DAX, reportes en la nube).
+- Consulto datos con **SQL** en Snowflake y uso procesos **ETL** para alimentar mis reportes.
+- Automatizo procesos administrativos con **Python** y **Excel**.
+- Desarrollo herramientas internas con **Python + Streamlit**.
 
 ## 🚧 En desarrollo
 
-- **Gestor integral de flota automotor**: una aplicación para centralizar y controlar la gestión de una flota de vehículos, desarrollada con Python y Streamlit.
+-**Gestor integral de flota automotor** con Python y Streamlit, para centralizar y controlar la gestión de una flota de vehículos.
+-**Gestor de Finanzas Personales** Flujo de caja, Control de gastos, desvíos mensuales en Tarjetas de crédito, cuotas e inversiones entre lo más destacado.
 
-- 
 ## Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -29,10 +29,10 @@ Soy Supervisor de Administración en Cencosud y estoy orientando mi carrera haci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Aprendiendo ahora
+## Qué estoy aprendiendo
 
-- Microsoft SQL Server
-- Más Python aplicado a análisis de datos
+- Estoy cursando la materia Bases de Datos relacionales con Microsoft SQL Server.
+- Profundizo en Python aplicado al análisis de datos.
 
 ## Contacto
 
