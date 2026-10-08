@@ -4,7 +4,7 @@
 
 Soy Supervisor de Administración en Cencosud, con enfoque principal en Reporting, BI, IA, Automatización y mejora de procesos. Trabajo con datos todos los días: consulto Snowflake con SQL, armo reportes en Power BI, automatizo procesos con Power Automate, SharePoint, Power Apps, y desarrollo soluciones propias en Python.
 
-📍 Vivo en Buenos Aires, Argentina
+📍 Vivo en Buenos Aires, Argentina\
 🎓 Estudio Ciencia de Datos e IA en ISTEA
 
 ## En qué trabajo
