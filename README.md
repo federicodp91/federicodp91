@@ -18,7 +18,7 @@ Soy Supervisor de Administración en Cencosud, con enfoque principal en Reportin
 
 ## 🚧 En desarrollo
 
--**Gestor integral de flota automotor** con Python y Streamlit, para centralizar y controlar la gestión de una flota de vehículos.
+-**Gestor integral de flota automotor** con Python y Streamlit, para centralizar y controlar la gestión de una flota de vehículos.\
 -**Gestor de Finanzas Personales** Flujo de caja, Control de gastos, desvíos mensuales en Tarjetas de crédito, cuotas e inversiones entre lo más destacado.
 
 ## Stack
