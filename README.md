@@ -18,8 +18,8 @@ Soy Supervisor de Administración en Cencosud, con enfoque principal en Reportin
 
 ## 🚧 En desarrollo
 
--**Gestor integral de flota automotor** con Python y Streamlit, para centralizar y controlar la gestión de una flota de vehículos.\ https://github.com/federicodp91/Gestor_Flotas
--**Gestor de Finanzas Personales** Flujo de caja, Control de gastos, desvíos mensuales en Tarjetas de crédito, cuotas e inversiones entre lo más destacado.
+- **Gestor integral de flota automotor** con Python, Streamlit y SQLite, para centralizar y controlar la gestión de una flota de vehículos. [Probar la demo](https://gestor-flotas-demo.streamlit.app/) (datos 100% ficticios)
+- **Gestor de finanzas personales**: flujo de caja, control de gastos, desvíos mensuales en tarjetas de crédito, cuotas e inversiones, entre lo más destacado.
 
 ## Stack
 
