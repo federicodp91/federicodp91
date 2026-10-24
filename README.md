@@ -23,6 +23,7 @@ Soy Supervisor de Administración en Cencosud, con enfoque principal en Reportin
 
 ## 🚧 En desarrollo
 
+- **ArtDeClo**: sitio web para un taller de artesanías en miniatura, con galería filtrable, ficha con la historia de cada pieza y consultas por Instagram. Hecho con HTML, CSS y JavaScript, publicado en GitHub Pages. [Ver el sitio](https://federicodp91.github.io/arttdeclo/) · [Código](https://github.com/federicodp91/arttdeclo)
 - **Gestor de finanzas personales**: flujo de caja, control de gastos, desvíos mensuales en tarjetas de crédito, cuotas e inversiones, entre lo más destacado.
 
 ## Stack
