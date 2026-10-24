@@ -18,11 +18,11 @@ Soy Supervisor de Administración en Cencosud, con enfoque principal en Reportin
 
 ## 🌐 Proyectos publicados
 
+- **Gestor integral de flota automotor** con Python, Streamlit y SQLite, para centralizar y controlar la gestión de una flota de vehículos. [Probar la demo](https://gestor-flotas-demo.streamlit.app/) (datos 100% ficticios)
 - **La Red del Vino**: sitio web de una red de distribución de vinos boutique de Mendoza, con catálogo, carrito de compras y pedidos por WhatsApp. Hecho con HTML, CSS y JavaScript, publicado en GitHub Pages. [Ver el sitio](https://federicodp91.github.io/la-red-del-vino-web/) · [Código](https://github.com/federicodp91/la-red-del-vino-web)
 
 ## 🚧 En desarrollo
 
-- **Gestor integral de flota automotor** con Python, Streamlit y SQLite, para centralizar y controlar la gestión de una flota de vehículos. [Probar la demo](https://gestor-flotas-demo.streamlit.app/) (datos 100% ficticios)
 - **Gestor de finanzas personales**: flujo de caja, control de gastos, desvíos mensuales en tarjetas de crédito, cuotas e inversiones, entre lo más destacado.
 
 ## Stack
