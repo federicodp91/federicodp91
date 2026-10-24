@@ -41,11 +41,6 @@ Soy Supervisor de Administración en Cencosud, con enfoque principal en Reportin
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## Qué estoy aprendiendo
-
-- Estoy cursando la materia Bases de Datos relacionales con Microsoft SQL Server.
-- Profundizo en Python aplicado al análisis de datos.
-
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/federico-depalma) · [Email](mailto:federicodepalma.n@gmail.com)
